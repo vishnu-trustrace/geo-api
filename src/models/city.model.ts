@@ -1,9 +1,9 @@
-import {Entity, model, property, belongsTo, hasMany} from '@loopback/repository';
+import {Entity, model, property, belongsTo} from '@loopback/repository';
+import {State} from './state.model';
 import {Country} from './country.model';
-import {City} from './city.model';
 
 @model({settings: {strict: false}})
-export class State extends Entity {
+export class City extends Entity {
   @property({
     type: 'number',
     id: true,
@@ -17,12 +17,12 @@ export class State extends Entity {
     required: true,
   })
   name: string;
-
   @property({
     type: 'string',
     required: true,
   })
   country_code: string;
+
   @property({
     type: 'string',
     required: true,
@@ -41,24 +41,24 @@ export class State extends Entity {
   })
   longitude: string;
 
+  @belongsTo(() => State, {name: 'state'})
+  state_id: number;
+
   @belongsTo(() => Country, {name: 'country'})
   country_id: number;
-
-  @hasMany(() => City, {keyTo: 'state_id'})
-  cities: City[];
   // Define well-known properties here
 
   // Indexer property to allow additional data
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   [prop: string]: any;
 
-  constructor(data?: Partial<State>) {
+  constructor(data?: Partial<City>) {
     super(data);
   }
 }
 
-export interface StateRelations {
+export interface CityRelations {
   // describe navigational properties here
 }
 
-export type StateWithRelations = State & StateRelations;
+export type CityWithRelations = City & CityRelations;

@@ -1,5 +1,6 @@
 import {Entity, model, property, hasMany} from '@loopback/repository';
 import {State} from './state.model';
+import {City} from './city.model';
 
 @model({settings: {strict: false}})
 export class Country extends Entity {
@@ -86,6 +87,9 @@ export class Country extends Entity {
 
   @hasMany(() => State, {keyTo: 'country_id'})
   states: State[];
+
+  @hasMany(() => City, {keyTo: 'country_id'})
+  cities: City[];
   // Define well-known properties here
 
   // Indexer property to allow additional data

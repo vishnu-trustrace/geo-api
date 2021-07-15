@@ -1,8 +1,9 @@
 import {inject, Getter} from '@loopback/core';
 import {DefaultCrudRepository, repository, HasManyRepositoryFactory} from '@loopback/repository';
 import {CountryDataSource} from '../datasources';
-import {Country, CountryRelations, State} from '../models';
+import {Country, CountryRelations, State, City} from '../models';
 import {StateRepository} from './state.repository';
+import {CityRepository} from './city.repository';
 
 export class CountryRepository extends DefaultCrudRepository<
   Country,
@@ -12,10 +13,14 @@ export class CountryRepository extends DefaultCrudRepository<
 
   public readonly states: HasManyRepositoryFactory<State, typeof Country.prototype.id>;
 
+  public readonly cities: HasManyRepositoryFactory<City, typeof Country.prototype.id>;
+
   constructor(
-    @inject('datasources.country') dataSource: CountryDataSource, @repository.getter('StateRepository') protected stateRepositoryGetter: Getter<StateRepository>,
+    @inject('datasources.country') dataSource: CountryDataSource, @repository.getter('StateRepository') protected stateRepositoryGetter: Getter<StateRepository>, @repository.getter('CityRepository') protected cityRepositoryGetter: Getter<CityRepository>,
   ) {
     super(Country, dataSource);
+    this.cities = this.createHasManyRepositoryFactoryFor('cities', cityRepositoryGetter,);
+    this.registerInclusionResolver('cities', this.cities.inclusionResolver);
     this.states = this.createHasManyRepositoryFactoryFor('states', stateRepositoryGetter,);
     this.registerInclusionResolver('states', this.states.inclusionResolver);
   }
