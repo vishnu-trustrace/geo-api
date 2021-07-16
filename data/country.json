@@ -27,6 +27,8 @@
                "ja":"アフガニスタン",
                "it":"Afghanistan"
             },
+            "latitude":"33.00000000",
+            "longitude":"65.00000000",
             "emojiU":"U+1F1E6 U+1F1EB"
          },
          "1":{
@@ -52,6 +54,8 @@
                "ja":"オーランド諸島",
                "it":"Isole Aland"
             },
+            "latitude":"60.11666700",
+            "longitude":"19.90000000",
             "emojiU":"U+1F1E6 U+1F1FD"
          },
          "2":{
@@ -77,6 +81,8 @@
                "ja":"アルバニア",
                "it":"Albania"
             },
+            "latitude":"41.00000000",
+            "longitude":"20.00000000",
             "emojiU":"U+1F1E6 U+1F1F1"
          },
          "3":{
@@ -102,6 +108,8 @@
                "ja":"アルジェリア",
                "it":"Algeria"
             },
+            "latitude":"28.00000000",
+            "longitude":"3.00000000",
             "emojiU":"U+1F1E9 U+1F1FF"
          },
          "4":{
@@ -127,6 +135,8 @@
                "ja":"アメリカ領サモア",
                "it":"Samoa Americane"
             },
+            "latitude":"-14.33333333",
+            "longitude":"-170.00000000",
             "emojiU":"U+1F1E6 U+1F1F8"
          },
          "5":{
@@ -152,6 +162,8 @@
                "ja":"アンドラ",
                "it":"Andorra"
             },
+            "latitude":"42.50000000",
+            "longitude":"1.50000000",
             "emojiU":"U+1F1E6 U+1F1E9"
          },
          "6":{
@@ -177,6 +189,8 @@
                "ja":"アンゴラ",
                "it":"Angola"
             },
+            "latitude":"-12.50000000",
+            "longitude":"18.50000000",
             "emojiU":"U+1F1E6 U+1F1F4"
          },
          "7":{
@@ -202,6 +216,8 @@
                "ja":"アンギラ",
                "it":"Anguilla"
             },
+            "latitude":"18.25000000",
+            "longitude":"-63.16666666",
             "emojiU":"U+1F1E6 U+1F1EE"
          },
          "8":{
@@ -227,6 +243,8 @@
                "ja":"南極大陸",
                "it":"Antartide"
             },
+            "latitude":"-74.65000000",
+            "longitude":"4.48000000",
             "emojiU":"U+1F1E6 U+1F1F6"
          },
          "9":{
@@ -252,6 +270,8 @@
                "ja":"アンティグア・バーブーダ",
                "it":"Antigua e Barbuda"
             },
+            "latitude":"17.05000000",
+            "longitude":"-61.80000000",
             "emojiU":"U+1F1E6 U+1F1EC"
          },
          "10":{
@@ -277,6 +297,8 @@
                "ja":"アルゼンチン",
                "it":"Argentina"
             },
+            "latitude":"-34.00000000",
+            "longitude":"-64.00000000",
             "emojiU":"U+1F1E6 U+1F1F7"
          },
          "11":{
@@ -302,6 +324,8 @@
                "ja":"アルメニア",
                "it":"Armenia"
             },
+            "latitude":"40.00000000",
+            "longitude":"45.00000000",
             "emojiU":"U+1F1E6 U+1F1F2"
          },
          "12":{
@@ -327,6 +351,8 @@
                "ja":"アルバ",
                "it":"Aruba"
             },
+            "latitude":"12.50000000",
+            "longitude":"-69.96666666",
             "emojiU":"U+1F1E6 U+1F1FC"
          },
          "13":{
@@ -352,6 +378,8 @@
                "ja":"オーストラリア",
                "it":"Australia"
             },
+            "latitude":"-27.00000000",
+            "longitude":"133.00000000",
             "emojiU":"U+1F1E6 U+1F1FA"
          },
          "14":{
@@ -377,6 +405,8 @@
                "ja":"オーストリア",
                "it":"Austria"
             },
+            "latitude":"47.33333333",
+            "longitude":"13.33333333",
             "emojiU":"U+1F1E6 U+1F1F9"
          },
          "15":{
@@ -402,6 +432,8 @@
                "ja":"アゼルバイジャン",
                "it":"Azerbaijan"
             },
+            "latitude":"40.50000000",
+            "longitude":"47.50000000",
             "emojiU":"U+1F1E6 U+1F1FF"
          },
          "16":{
@@ -427,6 +459,8 @@
                "ja":"バハマ",
                "it":"Bahamas"
             },
+            "latitude":"24.25000000",
+            "longitude":"-76.00000000",
             "emojiU":"U+1F1E7 U+1F1F8"
          },
          "17":{
@@ -452,6 +486,8 @@
                "ja":"バーレーン",
                "it":"Bahrein"
             },
+            "latitude":"26.00000000",
+            "longitude":"50.55000000",
             "emojiU":"U+1F1E7 U+1F1ED"
          },
          "18":{
@@ -477,6 +513,8 @@
                "ja":"バングラデシュ",
                "it":"Bangladesh"
             },
+            "latitude":"24.00000000",
+            "longitude":"90.00000000",
             "emojiU":"U+1F1E7 U+1F1E9"
          },
          "19":{
@@ -502,6 +540,8 @@
                "ja":"バルバドス",
                "it":"Barbados"
             },
+            "latitude":"13.16666666",
+            "longitude":"-59.53333333",
             "emojiU":"U+1F1E7 U+1F1E7"
          },
          "20":{
@@ -527,6 +567,8 @@
                "ja":"ベラルーシ",
                "it":"Bielorussia"
             },
+            "latitude":"53.00000000",
+            "longitude":"28.00000000",
             "emojiU":"U+1F1E7 U+1F1FE"
          },
          "21":{
@@ -552,6 +594,8 @@
                "ja":"ベルギー",
                "it":"Belgio"
             },
+            "latitude":"50.83333333",
+            "longitude":"4.00000000",
             "emojiU":"U+1F1E7 U+1F1EA"
          },
          "22":{
@@ -577,6 +621,8 @@
                "ja":"ベリーズ",
                "it":"Belize"
             },
+            "latitude":"17.25000000",
+            "longitude":"-88.75000000",
             "emojiU":"U+1F1E7 U+1F1FF"
          },
          "23":{
@@ -602,6 +648,8 @@
                "ja":"ベナン",
                "it":"Benin"
             },
+            "latitude":"9.50000000",
+            "longitude":"2.25000000",
             "emojiU":"U+1F1E7 U+1F1EF"
          },
          "24":{
@@ -627,6 +675,8 @@
                "ja":"バミューダ",
                "it":"Bermuda"
             },
+            "latitude":"32.33333333",
+            "longitude":"-64.75000000",
             "emojiU":"U+1F1E7 U+1F1F2"
          },
          "25":{
@@ -652,6 +702,8 @@
                "ja":"ブータン",
                "it":"Bhutan"
             },
+            "latitude":"27.50000000",
+            "longitude":"90.50000000",
             "emojiU":"U+1F1E7 U+1F1F9"
          },
          "26":{
@@ -677,6 +729,8 @@
                "ja":"ボリビア多民族国",
                "it":"Bolivia"
             },
+            "latitude":"-17.00000000",
+            "longitude":"-65.00000000",
             "emojiU":"U+1F1E7 U+1F1F4"
          },
          "27":{
@@ -698,6 +752,8 @@
                "fr":"Bonaire, Saint-Eustache et Saba",
                "it":"Bonaire, Saint-Eustache e Saba"
             },
+            "latitude":"12.15000000",
+            "longitude":"-68.26666700",
             "emojiU":"U+1F1E7 U+1F1F6"
          },
          "28":{
@@ -723,6 +779,8 @@
                "ja":"ボスニア・ヘルツェゴビナ",
                "it":"Bosnia ed Erzegovina"
             },
+            "latitude":"44.00000000",
+            "longitude":"18.00000000",
             "emojiU":"U+1F1E7 U+1F1E6"
          },
          "29":{
@@ -748,6 +806,8 @@
                "ja":"ボツワナ",
                "it":"Botswana"
             },
+            "latitude":"-22.00000000",
+            "longitude":"24.00000000",
             "emojiU":"U+1F1E7 U+1F1FC"
          },
          "30":{
@@ -773,6 +833,8 @@
                "ja":"ブーベ島",
                "it":"Isola Bouvet"
             },
+            "latitude":"-54.43333333",
+            "longitude":"3.40000000",
             "emojiU":"U+1F1E7 U+1F1FB"
          },
          "31":{
@@ -798,6 +860,8 @@
                "ja":"ブラジル",
                "it":"Brasile"
             },
+            "latitude":"-10.00000000",
+            "longitude":"-55.00000000",
             "emojiU":"U+1F1E7 U+1F1F7"
          },
          "32":{
@@ -823,6 +887,8 @@
                "ja":"イギリス領インド洋地域",
                "it":"Territorio britannico dell'oceano indiano"
             },
+            "latitude":"-6.00000000",
+            "longitude":"71.50000000",
             "emojiU":"U+1F1EE U+1F1F4"
          },
          "33":{
@@ -848,6 +914,8 @@
                "ja":"ブルネイ・ダルサラーム",
                "it":"Brunei"
             },
+            "latitude":"4.50000000",
+            "longitude":"114.66666666",
             "emojiU":"U+1F1E7 U+1F1F3"
          },
          "34":{
@@ -873,6 +941,8 @@
                "ja":"ブルガリア",
                "it":"Bulgaria"
             },
+            "latitude":"43.00000000",
+            "longitude":"25.00000000",
             "emojiU":"U+1F1E7 U+1F1EC"
          },
          "35":{
@@ -898,6 +968,8 @@
                "ja":"ブルキナファソ",
                "it":"Burkina Faso"
             },
+            "latitude":"13.00000000",
+            "longitude":"-2.00000000",
             "emojiU":"U+1F1E7 U+1F1EB"
          },
          "36":{
@@ -923,6 +995,8 @@
                "ja":"ブルンジ",
                "it":"Burundi"
             },
+            "latitude":"-3.50000000",
+            "longitude":"30.00000000",
             "emojiU":"U+1F1E7 U+1F1EE"
          },
          "37":{
@@ -948,6 +1022,8 @@
                "ja":"カンボジア",
                "it":"Cambogia"
             },
+            "latitude":"13.00000000",
+            "longitude":"105.00000000",
             "emojiU":"U+1F1F0 U+1F1ED"
          },
          "38":{
@@ -973,6 +1049,8 @@
                "ja":"カメルーン",
                "it":"Camerun"
             },
+            "latitude":"6.00000000",
+            "longitude":"12.00000000",
             "emojiU":"U+1F1E8 U+1F1F2"
          },
          "39":{
@@ -998,6 +1076,8 @@
                "ja":"カナダ",
                "it":"Canada"
             },
+            "latitude":"60.00000000",
+            "longitude":"-95.00000000",
             "emojiU":"U+1F1E8 U+1F1E6"
          },
          "40":{
@@ -1023,6 +1103,8 @@
                "ja":"カーボベルデ",
                "it":"Capo Verde"
             },
+            "latitude":"16.00000000",
+            "longitude":"-24.00000000",
             "emojiU":"U+1F1E8 U+1F1FB"
          },
          "41":{
@@ -1048,6 +1130,8 @@
                "ja":"ケイマン諸島",
                "it":"Isole Cayman"
             },
+            "latitude":"19.50000000",
+            "longitude":"-80.50000000",
             "emojiU":"U+1F1F0 U+1F1FE"
          },
          "42":{
@@ -1073,6 +1157,8 @@
                "ja":"中央アフリカ共和国",
                "it":"Repubblica Centrafricana"
             },
+            "latitude":"7.00000000",
+            "longitude":"21.00000000",
             "emojiU":"U+1F1E8 U+1F1EB"
          },
          "43":{
@@ -1098,6 +1184,8 @@
                "ja":"チャド",
                "it":"Ciad"
             },
+            "latitude":"15.00000000",
+            "longitude":"19.00000000",
             "emojiU":"U+1F1F9 U+1F1E9"
          },
          "44":{
@@ -1123,6 +1211,8 @@
                "ja":"チリ",
                "it":"Cile"
             },
+            "latitude":"-30.00000000",
+            "longitude":"-71.00000000",
             "emojiU":"U+1F1E8 U+1F1F1"
          },
          "45":{
@@ -1148,6 +1238,8 @@
                "ja":"中国",
                "it":"Cina"
             },
+            "latitude":"35.00000000",
+            "longitude":"105.00000000",
             "emojiU":"U+1F1E8 U+1F1F3"
          },
          "46":{
@@ -1173,6 +1265,8 @@
                "ja":"クリスマス島",
                "it":"Isola di Natale"
             },
+            "latitude":"-10.50000000",
+            "longitude":"105.66666666",
             "emojiU":"U+1F1E8 U+1F1FD"
          },
          "47":{
@@ -1198,6 +1292,8 @@
                "ja":"ココス（キーリング）諸島",
                "it":"Isole Cocos e Keeling"
             },
+            "latitude":"-12.50000000",
+            "longitude":"96.83333333",
             "emojiU":"U+1F1E8 U+1F1E8"
          },
          "48":{
@@ -1223,6 +1319,8 @@
                "ja":"コロンビア",
                "it":"Colombia"
             },
+            "latitude":"4.00000000",
+            "longitude":"-72.00000000",
             "emojiU":"U+1F1E8 U+1F1F4"
          },
          "49":{
@@ -1248,6 +1346,8 @@
                "ja":"コモロ",
                "it":"Comore"
             },
+            "latitude":"-12.16666666",
+            "longitude":"44.25000000",
             "emojiU":"U+1F1F0 U+1F1F2"
          },
          "50":{
@@ -1273,6 +1373,8 @@
                "ja":"コンゴ共和国",
                "it":"Congo"
             },
+            "latitude":"-1.00000000",
+            "longitude":"15.00000000",
             "emojiU":"U+1F1E8 U+1F1EC"
          },
          "51":{
@@ -1298,6 +1400,8 @@
                "ja":"コンゴ民主共和国",
                "it":"Congo (Rep. Dem.)"
             },
+            "latitude":"0.00000000",
+            "longitude":"25.00000000",
             "emojiU":"U+1F1E8 U+1F1E9"
          },
          "52":{
@@ -1323,6 +1427,8 @@
                "ja":"クック諸島",
                "it":"Isole Cook"
             },
+            "latitude":"-21.23333333",
+            "longitude":"-159.76666666",
             "emojiU":"U+1F1E8 U+1F1F0"
          },
          "53":{
@@ -1348,6 +1454,8 @@
                "ja":"コスタリカ",
                "it":"Costa Rica"
             },
+            "latitude":"10.00000000",
+            "longitude":"-84.00000000",
             "emojiU":"U+1F1E8 U+1F1F7"
          },
          "54":{
@@ -1373,6 +1481,8 @@
                "ja":"コートジボワール",
                "it":"Costa D'Avorio"
             },
+            "latitude":"8.00000000",
+            "longitude":"-5.00000000",
             "emojiU":"U+1F1E8 U+1F1EE"
          },
          "55":{
@@ -1398,6 +1508,8 @@
                "ja":"クロアチア",
                "it":"Croazia"
             },
+            "latitude":"45.16666666",
+            "longitude":"15.50000000",
             "emojiU":"U+1F1ED U+1F1F7"
          },
          "56":{
@@ -1423,6 +1535,8 @@
                "ja":"キューバ",
                "it":"Cuba"
             },
+            "latitude":"21.50000000",
+            "longitude":"-80.00000000",
             "emojiU":"U+1F1E8 U+1F1FA"
          },
          "57":{
@@ -1445,6 +1559,8 @@
                "fr":"Curaçao",
                "it":"Curaçao"
             },
+            "latitude":"12.11666700",
+            "longitude":"-68.93333300",
             "emojiU":"U+1F1E8 U+1F1FC"
          },
          "58":{
@@ -1470,6 +1586,8 @@
                "ja":"キプロス",
                "it":"Cipro"
             },
+            "latitude":"35.00000000",
+            "longitude":"33.00000000",
             "emojiU":"U+1F1E8 U+1F1FE"
          },
          "59":{
@@ -1495,6 +1613,8 @@
                "ja":"チェコ",
                "it":"Repubblica Ceca"
             },
+            "latitude":"49.75000000",
+            "longitude":"15.50000000",
             "emojiU":"U+1F1E8 U+1F1FF"
          },
          "60":{
@@ -1520,6 +1640,8 @@
                "ja":"デンマーク",
                "it":"Danimarca"
             },
+            "latitude":"56.00000000",
+            "longitude":"10.00000000",
             "emojiU":"U+1F1E9 U+1F1F0"
          },
          "61":{
@@ -1545,6 +1667,8 @@
                "ja":"ジブチ",
                "it":"Gibuti"
             },
+            "latitude":"11.50000000",
+            "longitude":"43.00000000",
             "emojiU":"U+1F1E9 U+1F1EF"
          },
          "62":{
@@ -1570,6 +1694,8 @@
                "ja":"ドミニカ国",
                "it":"Dominica"
             },
+            "latitude":"15.41666666",
+            "longitude":"-61.33333333",
             "emojiU":"U+1F1E9 U+1F1F2"
          },
          "63":{
@@ -1595,6 +1721,8 @@
                "ja":"ドミニカ共和国",
                "it":"Repubblica Dominicana"
             },
+            "latitude":"19.00000000",
+            "longitude":"-70.66666666",
             "emojiU":"U+1F1E9 U+1F1F4"
          },
          "64":{
@@ -1620,6 +1748,8 @@
                "ja":"東ティモール",
                "it":"Timor Est"
             },
+            "latitude":"-8.83333333",
+            "longitude":"125.91666666",
             "emojiU":"U+1F1F9 U+1F1F1"
          },
          "65":{
@@ -1645,6 +1775,8 @@
                "ja":"エクアドル",
                "it":"Ecuador"
             },
+            "latitude":"-2.00000000",
+            "longitude":"-77.50000000",
             "emojiU":"U+1F1EA U+1F1E8"
          },
          "66":{
@@ -1670,6 +1802,8 @@
                "ja":"エジプト",
                "it":"Egitto"
             },
+            "latitude":"27.00000000",
+            "longitude":"30.00000000",
             "emojiU":"U+1F1EA U+1F1EC"
          },
          "67":{
@@ -1695,6 +1829,8 @@
                "ja":"エルサルバドル",
                "it":"El Salvador"
             },
+            "latitude":"13.83333333",
+            "longitude":"-88.91666666",
             "emojiU":"U+1F1F8 U+1F1FB"
          },
          "68":{
@@ -1720,6 +1856,8 @@
                "ja":"赤道ギニア",
                "it":"Guinea Equatoriale"
             },
+            "latitude":"2.00000000",
+            "longitude":"10.00000000",
             "emojiU":"U+1F1EC U+1F1F6"
          },
          "69":{
@@ -1745,6 +1883,8 @@
                "ja":"エリトリア",
                "it":"Eritrea"
             },
+            "latitude":"15.00000000",
+            "longitude":"39.00000000",
             "emojiU":"U+1F1EA U+1F1F7"
          },
          "70":{
@@ -1770,6 +1910,8 @@
                "ja":"エストニア",
                "it":"Estonia"
             },
+            "latitude":"59.00000000",
+            "longitude":"26.00000000",
             "emojiU":"U+1F1EA U+1F1EA"
          },
          "71":{
@@ -1795,6 +1937,8 @@
                "ja":"エチオピア",
                "it":"Etiopia"
             },
+            "latitude":"8.00000000",
+            "longitude":"38.00000000",
             "emojiU":"U+1F1EA U+1F1F9"
          },
          "72":{
@@ -1820,6 +1964,8 @@
                "ja":"フォークランド（マルビナス）諸島",
                "it":"Isole Falkland o Isole Malvine"
             },
+            "latitude":"-51.75000000",
+            "longitude":"-59.00000000",
             "emojiU":"U+1F1EB U+1F1F0"
          },
          "73":{
@@ -1845,6 +1991,8 @@
                "ja":"フェロー諸島",
                "it":"Isole Far Oer"
             },
+            "latitude":"62.00000000",
+            "longitude":"-7.00000000",
             "emojiU":"U+1F1EB U+1F1F4"
          },
          "74":{
@@ -1870,6 +2018,8 @@
                "ja":"フィジー",
                "it":"Figi"
             },
+            "latitude":"-18.00000000",
+            "longitude":"175.00000000",
             "emojiU":"U+1F1EB U+1F1EF"
          },
          "75":{
@@ -1895,6 +2045,8 @@
                "ja":"フィンランド",
                "it":"Finlandia"
             },
+            "latitude":"64.00000000",
+            "longitude":"26.00000000",
             "emojiU":"U+1F1EB U+1F1EE"
          },
          "76":{
@@ -1920,6 +2072,8 @@
                "ja":"フランス",
                "it":"Francia"
             },
+            "latitude":"46.00000000",
+            "longitude":"2.00000000",
             "emojiU":"U+1F1EB U+1F1F7"
          },
          "77":{
@@ -1945,6 +2099,8 @@
                "ja":"フランス領ギアナ",
                "it":"Guyana francese"
             },
+            "latitude":"4.00000000",
+            "longitude":"-53.00000000",
             "emojiU":"U+1F1EC U+1F1EB"
          },
          "78":{
@@ -1970,6 +2126,8 @@
                "ja":"フランス領ポリネシア",
                "it":"Polinesia Francese"
             },
+            "latitude":"-15.00000000",
+            "longitude":"-140.00000000",
             "emojiU":"U+1F1F5 U+1F1EB"
          },
          "79":{
@@ -1995,6 +2153,8 @@
                "ja":"フランス領南方・南極地域",
                "it":"Territori Francesi del Sud"
             },
+            "latitude":"-49.25000000",
+            "longitude":"69.16700000",
             "emojiU":"U+1F1F9 U+1F1EB"
          },
          "80":{
@@ -2020,6 +2180,8 @@
                "ja":"ガボン",
                "it":"Gabon"
             },
+            "latitude":"-1.00000000",
+            "longitude":"11.75000000",
             "emojiU":"U+1F1EC U+1F1E6"
          },
          "81":{
@@ -2045,6 +2207,8 @@
                "ja":"ガンビア",
                "it":"Gambia"
             },
+            "latitude":"13.46666666",
+            "longitude":"-16.56666666",
             "emojiU":"U+1F1EC U+1F1F2"
          },
          "82":{
@@ -2070,6 +2234,8 @@
                "ja":"グルジア",
                "it":"Georgia"
             },
+            "latitude":"42.00000000",
+            "longitude":"43.50000000",
             "emojiU":"U+1F1EC U+1F1EA"
          },
          "83":{
@@ -2095,6 +2261,8 @@
                "ja":"ドイツ",
                "it":"Germania"
             },
+            "latitude":"51.00000000",
+            "longitude":"9.00000000",
             "emojiU":"U+1F1E9 U+1F1EA"
          },
          "84":{
@@ -2120,6 +2288,8 @@
                "ja":"ガーナ",
                "it":"Ghana"
             },
+            "latitude":"8.00000000",
+            "longitude":"-2.00000000",
             "emojiU":"U+1F1EC U+1F1ED"
          },
          "85":{
@@ -2145,6 +2315,8 @@
                "ja":"ジブラルタル",
                "it":"Gibilterra"
             },
+            "latitude":"36.13333333",
+            "longitude":"-5.35000000",
             "emojiU":"U+1F1EC U+1F1EE"
          },
          "86":{
@@ -2170,6 +2342,8 @@
                "ja":"ギリシャ",
                "it":"Grecia"
             },
+            "latitude":"39.00000000",
+            "longitude":"22.00000000",
             "emojiU":"U+1F1EC U+1F1F7"
          },
          "87":{
@@ -2195,6 +2369,8 @@
                "ja":"グリーンランド",
                "it":"Groenlandia"
             },
+            "latitude":"72.00000000",
+            "longitude":"-40.00000000",
             "emojiU":"U+1F1EC U+1F1F1"
          },
          "88":{
@@ -2220,6 +2396,8 @@
                "ja":"グレナダ",
                "it":"Grenada"
             },
+            "latitude":"12.11666666",
+            "longitude":"-61.66666666",
             "emojiU":"U+1F1EC U+1F1E9"
          },
          "89":{
@@ -2245,6 +2423,8 @@
                "ja":"グアドループ",
                "it":"Guadeloupa"
             },
+            "latitude":"16.25000000",
+            "longitude":"-61.58333300",
             "emojiU":"U+1F1EC U+1F1F5"
          },
          "90":{
@@ -2270,6 +2450,8 @@
                "ja":"グアム",
                "it":"Guam"
             },
+            "latitude":"13.46666666",
+            "longitude":"144.78333333",
             "emojiU":"U+1F1EC U+1F1FA"
          },
          "91":{
@@ -2295,6 +2477,8 @@
                "ja":"グアテマラ",
                "it":"Guatemala"
             },
+            "latitude":"15.50000000",
+            "longitude":"-90.25000000",
             "emojiU":"U+1F1EC U+1F1F9"
          },
          "92":{
@@ -2320,6 +2504,8 @@
                "ja":"ガーンジー",
                "it":"Guernsey"
             },
+            "latitude":"49.46666666",
+            "longitude":"-2.58333333",
             "emojiU":"U+1F1EC U+1F1EC"
          },
          "93":{
@@ -2345,6 +2531,8 @@
                "ja":"ギニア",
                "it":"Guinea"
             },
+            "latitude":"11.00000000",
+            "longitude":"-10.00000000",
             "emojiU":"U+1F1EC U+1F1F3"
          },
          "94":{
@@ -2370,6 +2558,8 @@
                "ja":"ギニアビサウ",
                "it":"Guinea-Bissau"
             },
+            "latitude":"12.00000000",
+            "longitude":"-15.00000000",
             "emojiU":"U+1F1EC U+1F1FC"
          },
          "95":{
@@ -2395,6 +2585,8 @@
                "ja":"ガイアナ",
                "it":"Guyana"
             },
+            "latitude":"5.00000000",
+            "longitude":"-59.00000000",
             "emojiU":"U+1F1EC U+1F1FE"
          },
          "96":{
@@ -2420,6 +2612,8 @@
                "ja":"ハイチ",
                "it":"Haiti"
             },
+            "latitude":"19.00000000",
+            "longitude":"-72.41666666",
             "emojiU":"U+1F1ED U+1F1F9"
          },
          "97":{
@@ -2445,6 +2639,8 @@
                "ja":"ハード島とマクドナルド諸島",
                "it":"Isole Heard e McDonald"
             },
+            "latitude":"-53.10000000",
+            "longitude":"72.51666666",
             "emojiU":"U+1F1ED U+1F1F2"
          },
          "98":{
@@ -2470,6 +2666,8 @@
                "ja":"ホンジュラス",
                "it":"Honduras"
             },
+            "latitude":"15.00000000",
+            "longitude":"-86.50000000",
             "emojiU":"U+1F1ED U+1F1F3"
          },
          "99":{
@@ -2495,6 +2693,8 @@
                "ja":"香港",
                "it":"Hong Kong"
             },
+            "latitude":"22.25000000",
+            "longitude":"114.16666666",
             "emojiU":"U+1F1ED U+1F1F0"
          },
          "100":{
@@ -2520,6 +2720,8 @@
                "ja":"ハンガリー",
                "it":"Ungheria"
             },
+            "latitude":"47.00000000",
+            "longitude":"20.00000000",
             "emojiU":"U+1F1ED U+1F1FA"
          },
          "101":{
@@ -2545,6 +2747,8 @@
                "ja":"アイスランド",
                "it":"Islanda"
             },
+            "latitude":"65.00000000",
+            "longitude":"-18.00000000",
             "emojiU":"U+1F1EE U+1F1F8"
          },
          "102":{
@@ -2570,6 +2774,8 @@
                "ja":"インド",
                "it":"India"
             },
+            "latitude":"20.00000000",
+            "longitude":"77.00000000",
             "emojiU":"U+1F1EE U+1F1F3"
          },
          "103":{
@@ -2595,6 +2801,8 @@
                "ja":"インドネシア",
                "it":"Indonesia"
             },
+            "latitude":"-5.00000000",
+            "longitude":"120.00000000",
             "emojiU":"U+1F1EE U+1F1E9"
          },
          "104":{
@@ -2619,6 +2827,8 @@
                "fr":"Iran",
                "ja":"イラン・イスラム共和国"
             },
+            "latitude":"32.00000000",
+            "longitude":"53.00000000",
             "emojiU":"U+1F1EE U+1F1F7"
          },
          "105":{
@@ -2644,6 +2854,8 @@
                "ja":"イラク",
                "it":"Iraq"
             },
+            "latitude":"33.00000000",
+            "longitude":"44.00000000",
             "emojiU":"U+1F1EE U+1F1F6"
          },
          "106":{
@@ -2669,6 +2881,8 @@
                "ja":"アイルランド",
                "it":"Irlanda"
             },
+            "latitude":"53.00000000",
+            "longitude":"-8.00000000",
             "emojiU":"U+1F1EE U+1F1EA"
          },
          "107":{
@@ -2694,6 +2908,8 @@
                "ja":"イスラエル",
                "it":"Israele"
             },
+            "latitude":"31.50000000",
+            "longitude":"34.75000000",
             "emojiU":"U+1F1EE U+1F1F1"
          },
          "108":{
@@ -2719,6 +2935,8 @@
                "ja":"イタリア",
                "it":"Italia"
             },
+            "latitude":"42.83333333",
+            "longitude":"12.83333333",
             "emojiU":"U+1F1EE U+1F1F9"
          },
          "109":{
@@ -2744,6 +2962,8 @@
                "ja":"ジャマイカ",
                "it":"Giamaica"
             },
+            "latitude":"18.25000000",
+            "longitude":"-77.50000000",
             "emojiU":"U+1F1EF U+1F1F2"
          },
          "110":{
@@ -2769,6 +2989,8 @@
                "ja":"日本",
                "it":"Giappone"
             },
+            "latitude":"36.00000000",
+            "longitude":"138.00000000",
             "emojiU":"U+1F1EF U+1F1F5"
          },
          "111":{
@@ -2794,6 +3016,8 @@
                "ja":"ジャージー",
                "it":"Isola di Jersey"
             },
+            "latitude":"49.25000000",
+            "longitude":"-2.16666666",
             "emojiU":"U+1F1EF U+1F1EA"
          },
          "112":{
@@ -2819,6 +3043,8 @@
                "ja":"ヨルダン",
                "it":"Giordania"
             },
+            "latitude":"31.00000000",
+            "longitude":"36.00000000",
             "emojiU":"U+1F1EF U+1F1F4"
          },
          "113":{
@@ -2844,6 +3070,8 @@
                "ja":"カザフスタン",
                "it":"Kazakistan"
             },
+            "latitude":"48.00000000",
+            "longitude":"68.00000000",
             "emojiU":"U+1F1F0 U+1F1FF"
          },
          "114":{
@@ -2869,6 +3097,8 @@
                "ja":"ケニア",
                "it":"Kenya"
             },
+            "latitude":"1.00000000",
+            "longitude":"38.00000000",
             "emojiU":"U+1F1F0 U+1F1EA"
          },
          "115":{
@@ -2894,6 +3124,8 @@
                "ja":"キリバス",
                "it":"Kiribati"
             },
+            "latitude":"1.41666666",
+            "longitude":"173.00000000",
             "emojiU":"U+1F1F0 U+1F1EE"
          },
          "116":{
@@ -2919,6 +3151,8 @@
                "ja":"朝鮮民主主義人民共和国",
                "it":"Corea del Nord"
             },
+            "latitude":"40.00000000",
+            "longitude":"127.00000000",
             "emojiU":"U+1F1F0 U+1F1F5"
          },
          "117":{
@@ -2944,6 +3178,8 @@
                "ja":"大韓民国",
                "it":"Corea del Sud"
             },
+            "latitude":"37.00000000",
+            "longitude":"127.50000000",
             "emojiU":"U+1F1F0 U+1F1F7"
          },
          "118":{
@@ -2958,6 +3194,8 @@
             "region":"Europe",
             "subregion":"Eastern Europe",
             "translations":null,
+            "latitude":"42.56129090",
+            "longitude":"20.34030350",
             "emojiU":"U+1F1FD U+1F1F0"
          },
          "119":{
@@ -2983,6 +3221,8 @@
                "ja":"クウェート",
                "it":"Kuwait"
             },
+            "latitude":"29.50000000",
+            "longitude":"45.75000000",
             "emojiU":"U+1F1F0 U+1F1FC"
          },
          "120":{
@@ -3008,6 +3248,8 @@
                "ja":"キルギス",
                "it":"Kirghizistan"
             },
+            "latitude":"41.00000000",
+            "longitude":"75.00000000",
             "emojiU":"U+1F1F0 U+1F1EC"
          },
          "121":{
@@ -3033,6 +3275,8 @@
                "ja":"ラオス人民民主共和国",
                "it":"Laos"
             },
+            "latitude":"18.00000000",
+            "longitude":"105.00000000",
             "emojiU":"U+1F1F1 U+1F1E6"
          },
          "122":{
@@ -3058,6 +3302,8 @@
                "ja":"ラトビア",
                "it":"Lettonia"
             },
+            "latitude":"57.00000000",
+            "longitude":"25.00000000",
             "emojiU":"U+1F1F1 U+1F1FB"
          },
          "123":{
@@ -3083,6 +3329,8 @@
                "ja":"レバノン",
                "it":"Libano"
             },
+            "latitude":"33.83333333",
+            "longitude":"35.83333333",
             "emojiU":"U+1F1F1 U+1F1E7"
          },
          "124":{
@@ -3108,6 +3356,8 @@
                "ja":"レソト",
                "it":"Lesotho"
             },
+            "latitude":"-29.50000000",
+            "longitude":"28.50000000",
             "emojiU":"U+1F1F1 U+1F1F8"
          },
          "125":{
@@ -3133,6 +3383,8 @@
                "ja":"リベリア",
                "it":"Liberia"
             },
+            "latitude":"6.50000000",
+            "longitude":"-9.50000000",
             "emojiU":"U+1F1F1 U+1F1F7"
          },
          "126":{
@@ -3158,6 +3410,8 @@
                "ja":"リビア",
                "it":"Libia"
             },
+            "latitude":"25.00000000",
+            "longitude":"17.00000000",
             "emojiU":"U+1F1F1 U+1F1FE"
          },
          "127":{
@@ -3183,6 +3437,8 @@
                "ja":"リヒテンシュタイン",
                "it":"Liechtenstein"
             },
+            "latitude":"47.26666666",
+            "longitude":"9.53333333",
             "emojiU":"U+1F1F1 U+1F1EE"
          },
          "128":{
@@ -3208,6 +3464,8 @@
                "ja":"リトアニア",
                "it":"Lituania"
             },
+            "latitude":"56.00000000",
+            "longitude":"24.00000000",
             "emojiU":"U+1F1F1 U+1F1F9"
          },
          "129":{
@@ -3233,6 +3491,8 @@
                "ja":"ルクセンブルク",
                "it":"Lussemburgo"
             },
+            "latitude":"49.75000000",
+            "longitude":"6.16666666",
             "emojiU":"U+1F1F1 U+1F1FA"
          },
          "130":{
@@ -3258,6 +3518,8 @@
                "ja":"マカオ",
                "it":"Macao"
             },
+            "latitude":"22.16666666",
+            "longitude":"113.55000000",
             "emojiU":"U+1F1F2 U+1F1F4"
          },
          "131":{
@@ -3283,6 +3545,8 @@
                "ja":"マケドニア旧ユーゴスラビア共和国",
                "it":"Macedonia"
             },
+            "latitude":"41.83333333",
+            "longitude":"22.00000000",
             "emojiU":"U+1F1F2 U+1F1F0"
          },
          "132":{
@@ -3308,6 +3572,8 @@
                "ja":"マダガスカル",
                "it":"Madagascar"
             },
+            "latitude":"-20.00000000",
+            "longitude":"47.00000000",
             "emojiU":"U+1F1F2 U+1F1EC"
          },
          "133":{
@@ -3333,6 +3599,8 @@
                "ja":"マラウイ",
                "it":"Malawi"
             },
+            "latitude":"-13.50000000",
+            "longitude":"34.00000000",
             "emojiU":"U+1F1F2 U+1F1FC"
          },
          "134":{
@@ -3358,6 +3626,8 @@
                "ja":"マレーシア",
                "it":"Malesia"
             },
+            "latitude":"2.50000000",
+            "longitude":"112.50000000",
             "emojiU":"U+1F1F2 U+1F1FE"
          },
          "135":{
@@ -3383,6 +3653,8 @@
                "ja":"モルディブ",
                "it":"Maldive"
             },
+            "latitude":"3.25000000",
+            "longitude":"73.00000000",
             "emojiU":"U+1F1F2 U+1F1FB"
          },
          "136":{
@@ -3408,6 +3680,8 @@
                "ja":"マリ",
                "it":"Mali"
             },
+            "latitude":"17.00000000",
+            "longitude":"-4.00000000",
             "emojiU":"U+1F1F2 U+1F1F1"
          },
          "137":{
@@ -3433,6 +3707,8 @@
                "ja":"マルタ",
                "it":"Malta"
             },
+            "latitude":"35.83333333",
+            "longitude":"14.58333333",
             "emojiU":"U+1F1F2 U+1F1F9"
          },
          "138":{
@@ -3458,6 +3734,8 @@
                "ja":"マン島",
                "it":"Isola di Man"
             },
+            "latitude":"54.25000000",
+            "longitude":"-4.50000000",
             "emojiU":"U+1F1EE U+1F1F2"
          },
          "139":{
@@ -3483,6 +3761,8 @@
                "ja":"マーシャル諸島",
                "it":"Isole Marshall"
             },
+            "latitude":"9.00000000",
+            "longitude":"168.00000000",
             "emojiU":"U+1F1F2 U+1F1ED"
          },
          "140":{
@@ -3508,6 +3788,8 @@
                "ja":"マルティニーク",
                "it":"Martinica"
             },
+            "latitude":"14.66666700",
+            "longitude":"-61.00000000",
             "emojiU":"U+1F1F2 U+1F1F6"
          },
          "141":{
@@ -3533,6 +3815,8 @@
                "ja":"モーリタニア",
                "it":"Mauritania"
             },
+            "latitude":"20.00000000",
+            "longitude":"-12.00000000",
             "emojiU":"U+1F1F2 U+1F1F7"
          },
          "142":{
@@ -3558,6 +3842,8 @@
                "ja":"モーリシャス",
                "it":"Mauritius"
             },
+            "latitude":"-20.28333333",
+            "longitude":"57.55000000",
             "emojiU":"U+1F1F2 U+1F1FA"
          },
          "143":{
@@ -3583,6 +3869,8 @@
                "ja":"マヨット",
                "it":"Mayotte"
             },
+            "latitude":"-12.83333333",
+            "longitude":"45.16666666",
             "emojiU":"U+1F1FE U+1F1F9"
          },
          "144":{
@@ -3608,6 +3896,8 @@
                "ja":"メキシコ",
                "it":"Messico"
             },
+            "latitude":"23.00000000",
+            "longitude":"-102.00000000",
             "emojiU":"U+1F1F2 U+1F1FD"
          },
          "145":{
@@ -3633,6 +3923,8 @@
                "ja":"ミクロネシア連邦",
                "it":"Micronesia"
             },
+            "latitude":"6.91666666",
+            "longitude":"158.25000000",
             "emojiU":"U+1F1EB U+1F1F2"
          },
          "146":{
@@ -3658,6 +3950,8 @@
                "ja":"モルドバ共和国",
                "it":"Moldavia"
             },
+            "latitude":"47.00000000",
+            "longitude":"29.00000000",
             "emojiU":"U+1F1F2 U+1F1E9"
          },
          "147":{
@@ -3683,6 +3977,8 @@
                "ja":"モナコ",
                "it":"Principato di Monaco"
             },
+            "latitude":"43.73333333",
+            "longitude":"7.40000000",
             "emojiU":"U+1F1F2 U+1F1E8"
          },
          "148":{
@@ -3708,6 +4004,8 @@
                "ja":"モンゴル",
                "it":"Mongolia"
             },
+            "latitude":"46.00000000",
+            "longitude":"105.00000000",
             "emojiU":"U+1F1F2 U+1F1F3"
          },
          "149":{
@@ -3733,6 +4031,8 @@
                "ja":"モンテネグロ",
                "it":"Montenegro"
             },
+            "latitude":"42.50000000",
+            "longitude":"19.30000000",
             "emojiU":"U+1F1F2 U+1F1EA"
          },
          "150":{
@@ -3758,6 +4058,8 @@
                "ja":"モントセラト",
                "it":"Montserrat"
             },
+            "latitude":"16.75000000",
+            "longitude":"-62.20000000",
             "emojiU":"U+1F1F2 U+1F1F8"
          },
          "151":{
@@ -3783,6 +4085,8 @@
                "ja":"モロッコ",
                "it":"Marocco"
             },
+            "latitude":"32.00000000",
+            "longitude":"-5.00000000",
             "emojiU":"U+1F1F2 U+1F1E6"
          },
          "152":{
@@ -3808,6 +4112,8 @@
                "ja":"モザンビーク",
                "it":"Mozambico"
             },
+            "latitude":"-18.25000000",
+            "longitude":"35.00000000",
             "emojiU":"U+1F1F2 U+1F1FF"
          },
          "153":{
@@ -3833,6 +4139,8 @@
                "ja":"ミャンマー",
                "it":"Birmania"
             },
+            "latitude":"22.00000000",
+            "longitude":"98.00000000",
             "emojiU":"U+1F1F2 U+1F1F2"
          },
          "154":{
@@ -3858,6 +4166,8 @@
                "ja":"ナミビア",
                "it":"Namibia"
             },
+            "latitude":"-22.00000000",
+            "longitude":"17.00000000",
             "emojiU":"U+1F1F3 U+1F1E6"
          },
          "155":{
@@ -3883,6 +4193,8 @@
                "ja":"ナウル",
                "it":"Nauru"
             },
+            "latitude":"-0.53333333",
+            "longitude":"166.91666666",
             "emojiU":"U+1F1F3 U+1F1F7"
          },
          "156":{
@@ -3908,6 +4220,8 @@
                "ja":"ネパール",
                "it":"Nepal"
             },
+            "latitude":"28.00000000",
+            "longitude":"84.00000000",
             "emojiU":"U+1F1F3 U+1F1F5"
          },
          "157":{
@@ -3933,6 +4247,8 @@
                "ja":"オランダ",
                "it":"Paesi Bassi"
             },
+            "latitude":"52.50000000",
+            "longitude":"5.75000000",
             "emojiU":"U+1F1F3 U+1F1F1"
          },
          "158":{
@@ -3958,6 +4274,8 @@
                "ja":"ニューカレドニア",
                "it":"Nuova Caledonia"
             },
+            "latitude":"-21.50000000",
+            "longitude":"165.50000000",
             "emojiU":"U+1F1F3 U+1F1E8"
          },
          "159":{
@@ -3983,6 +4301,8 @@
                "ja":"ニュージーランド",
                "it":"Nuova Zelanda"
             },
+            "latitude":"-41.00000000",
+            "longitude":"174.00000000",
             "emojiU":"U+1F1F3 U+1F1FF"
          },
          "160":{
@@ -4008,6 +4328,8 @@
                "ja":"ニカラグア",
                "it":"Nicaragua"
             },
+            "latitude":"13.00000000",
+            "longitude":"-85.00000000",
             "emojiU":"U+1F1F3 U+1F1EE"
          },
          "161":{
@@ -4033,6 +4355,8 @@
                "ja":"ニジェール",
                "it":"Niger"
             },
+            "latitude":"16.00000000",
+            "longitude":"8.00000000",
             "emojiU":"U+1F1F3 U+1F1EA"
          },
          "162":{
@@ -4058,6 +4382,8 @@
                "ja":"ナイジェリア",
                "it":"Nigeria"
             },
+            "latitude":"10.00000000",
+            "longitude":"8.00000000",
             "emojiU":"U+1F1F3 U+1F1EC"
          },
          "163":{
@@ -4083,6 +4409,8 @@
                "ja":"ニウエ",
                "it":"Niue"
             },
+            "latitude":"-19.03333333",
+            "longitude":"-169.86666666",
             "emojiU":"U+1F1F3 U+1F1FA"
          },
          "164":{
@@ -4108,6 +4436,8 @@
                "ja":"ノーフォーク島",
                "it":"Isola Norfolk"
             },
+            "latitude":"-29.03333333",
+            "longitude":"167.95000000",
             "emojiU":"U+1F1F3 U+1F1EB"
          },
          "165":{
@@ -4133,6 +4463,8 @@
                "ja":"北マリアナ諸島",
                "it":"Isole Marianne Settentrionali"
             },
+            "latitude":"15.20000000",
+            "longitude":"145.75000000",
             "emojiU":"U+1F1F2 U+1F1F5"
          },
          "166":{
@@ -4158,6 +4490,8 @@
                "ja":"ノルウェー",
                "it":"Norvegia"
             },
+            "latitude":"62.00000000",
+            "longitude":"10.00000000",
             "emojiU":"U+1F1F3 U+1F1F4"
          },
          "167":{
@@ -4183,6 +4517,8 @@
                "ja":"オマーン",
                "it":"oman"
             },
+            "latitude":"21.00000000",
+            "longitude":"57.00000000",
             "emojiU":"U+1F1F4 U+1F1F2"
          },
          "168":{
@@ -4208,6 +4544,8 @@
                "ja":"パキスタン",
                "it":"Pakistan"
             },
+            "latitude":"30.00000000",
+            "longitude":"70.00000000",
             "emojiU":"U+1F1F5 U+1F1F0"
          },
          "169":{
@@ -4233,6 +4571,8 @@
                "ja":"パラオ",
                "it":"Palau"
             },
+            "latitude":"7.50000000",
+            "longitude":"134.50000000",
             "emojiU":"U+1F1F5 U+1F1FC"
          },
          "170":{
@@ -4258,6 +4598,8 @@
                "ja":"パレスチナ",
                "it":"Palestina"
             },
+            "latitude":"31.90000000",
+            "longitude":"35.20000000",
             "emojiU":"U+1F1F5 U+1F1F8"
          },
          "171":{
@@ -4283,6 +4625,8 @@
                "ja":"パナマ",
                "it":"Panama"
             },
+            "latitude":"9.00000000",
+            "longitude":"-80.00000000",
             "emojiU":"U+1F1F5 U+1F1E6"
          },
          "172":{
@@ -4308,6 +4652,8 @@
                "ja":"パプアニューギニア",
                "it":"Papua Nuova Guinea"
             },
+            "latitude":"-6.00000000",
+            "longitude":"147.00000000",
             "emojiU":"U+1F1F5 U+1F1EC"
          },
          "173":{
@@ -4333,6 +4679,8 @@
                "ja":"パラグアイ",
                "it":"Paraguay"
             },
+            "latitude":"-23.00000000",
+            "longitude":"-58.00000000",
             "emojiU":"U+1F1F5 U+1F1FE"
          },
          "174":{
@@ -4358,6 +4706,8 @@
                "ja":"ペルー",
                "it":"Perù"
             },
+            "latitude":"-10.00000000",
+            "longitude":"-76.00000000",
             "emojiU":"U+1F1F5 U+1F1EA"
          },
          "175":{
@@ -4383,6 +4733,8 @@
                "ja":"フィリピン",
                "it":"Filippine"
             },
+            "latitude":"13.00000000",
+            "longitude":"122.00000000",
             "emojiU":"U+1F1F5 U+1F1ED"
          },
          "176":{
@@ -4408,6 +4760,8 @@
                "ja":"ピトケアン",
                "it":"Isole Pitcairn"
             },
+            "latitude":"-25.06666666",
+            "longitude":"-130.10000000",
             "emojiU":"U+1F1F5 U+1F1F3"
          },
          "177":{
@@ -4433,6 +4787,8 @@
                "ja":"ポーランド",
                "it":"Polonia"
             },
+            "latitude":"52.00000000",
+            "longitude":"20.00000000",
             "emojiU":"U+1F1F5 U+1F1F1"
          },
          "178":{
@@ -4458,6 +4814,8 @@
                "ja":"ポルトガル",
                "it":"Portogallo"
             },
+            "latitude":"39.50000000",
+            "longitude":"-8.00000000",
             "emojiU":"U+1F1F5 U+1F1F9"
          },
          "179":{
@@ -4483,6 +4841,8 @@
                "ja":"プエルトリコ",
                "it":"Porto Rico"
             },
+            "latitude":"18.25000000",
+            "longitude":"-66.50000000",
             "emojiU":"U+1F1F5 U+1F1F7"
          },
          "180":{
@@ -4508,6 +4868,8 @@
                "ja":"カタール",
                "it":"Qatar"
             },
+            "latitude":"25.50000000",
+            "longitude":"51.25000000",
             "emojiU":"U+1F1F6 U+1F1E6"
          },
          "181":{
@@ -4533,6 +4895,8 @@
                "ja":"レユニオン",
                "it":"Riunione"
             },
+            "latitude":"-21.15000000",
+            "longitude":"55.50000000",
             "emojiU":"U+1F1F7 U+1F1EA"
          },
          "182":{
@@ -4558,6 +4922,8 @@
                "ja":"ルーマニア",
                "it":"Romania"
             },
+            "latitude":"46.00000000",
+            "longitude":"25.00000000",
             "emojiU":"U+1F1F7 U+1F1F4"
          },
          "183":{
@@ -4583,6 +4949,8 @@
                "ja":"ロシア連邦",
                "it":"Russia"
             },
+            "latitude":"60.00000000",
+            "longitude":"100.00000000",
             "emojiU":"U+1F1F7 U+1F1FA"
          },
          "184":{
@@ -4608,6 +4976,8 @@
                "ja":"ルワンダ",
                "it":"Ruanda"
             },
+            "latitude":"-2.00000000",
+            "longitude":"30.00000000",
             "emojiU":"U+1F1F7 U+1F1FC"
          },
          "185":{
@@ -4633,6 +5003,8 @@
                "ja":"セントヘレナ・アセンションおよびトリスタンダクーニャ",
                "it":"Sant'Elena"
             },
+            "latitude":"-15.95000000",
+            "longitude":"-5.70000000",
             "emojiU":"U+1F1F8 U+1F1ED"
          },
          "186":{
@@ -4658,6 +5030,8 @@
                "ja":"セントクリストファー・ネイビス",
                "it":"Saint Kitts e Nevis"
             },
+            "latitude":"17.33333333",
+            "longitude":"-62.75000000",
             "emojiU":"U+1F1F0 U+1F1F3"
          },
          "187":{
@@ -4683,6 +5057,8 @@
                "ja":"セントルシア",
                "it":"Santa Lucia"
             },
+            "latitude":"13.88333333",
+            "longitude":"-60.96666666",
             "emojiU":"U+1F1F1 U+1F1E8"
          },
          "188":{
@@ -4708,6 +5084,8 @@
                "ja":"サンピエール島・ミクロン島",
                "it":"Saint-Pierre e Miquelon"
             },
+            "latitude":"46.83333333",
+            "longitude":"-56.33333333",
             "emojiU":"U+1F1F5 U+1F1F2"
          },
          "189":{
@@ -4733,6 +5111,8 @@
                "ja":"セントビンセントおよびグレナディーン諸島",
                "it":"Saint Vincent e Grenadine"
             },
+            "latitude":"13.25000000",
+            "longitude":"-61.20000000",
             "emojiU":"U+1F1FB U+1F1E8"
          },
          "190":{
@@ -4758,6 +5138,8 @@
                "ja":"サン・バルテルミー",
                "it":"Antille Francesi"
             },
+            "latitude":"18.50000000",
+            "longitude":"-63.41666666",
             "emojiU":"U+1F1E7 U+1F1F1"
          },
          "191":{
@@ -4783,6 +5165,8 @@
                "ja":"サン・マルタン（フランス領）",
                "it":"Saint Martin"
             },
+            "latitude":"18.08333333",
+            "longitude":"-63.95000000",
             "emojiU":"U+1F1F2 U+1F1EB"
          },
          "192":{
@@ -4808,6 +5192,8 @@
                "ja":"サモア",
                "it":"Samoa"
             },
+            "latitude":"-13.58333333",
+            "longitude":"-172.33333333",
             "emojiU":"U+1F1FC U+1F1F8"
          },
          "193":{
@@ -4833,6 +5219,8 @@
                "ja":"サンマリノ",
                "it":"San Marino"
             },
+            "latitude":"43.76666666",
+            "longitude":"12.41666666",
             "emojiU":"U+1F1F8 U+1F1F2"
          },
          "194":{
@@ -4858,6 +5246,8 @@
                "ja":"サントメ・プリンシペ",
                "it":"São Tomé e Príncipe"
             },
+            "latitude":"1.00000000",
+            "longitude":"7.00000000",
             "emojiU":"U+1F1F8 U+1F1F9"
          },
          "195":{
@@ -4883,6 +5273,8 @@
                "ja":"サウジアラビア",
                "it":"Arabia Saudita"
             },
+            "latitude":"25.00000000",
+            "longitude":"45.00000000",
             "emojiU":"U+1F1F8 U+1F1E6"
          },
          "196":{
@@ -4908,6 +5300,8 @@
                "ja":"セネガル",
                "it":"Senegal"
             },
+            "latitude":"14.00000000",
+            "longitude":"-14.00000000",
             "emojiU":"U+1F1F8 U+1F1F3"
          },
          "197":{
@@ -4933,6 +5327,8 @@
                "ja":"セルビア",
                "it":"Serbia"
             },
+            "latitude":"44.00000000",
+            "longitude":"21.00000000",
             "emojiU":"U+1F1F7 U+1F1F8"
          },
          "198":{
@@ -4958,6 +5354,8 @@
                "ja":"セーシェル",
                "it":"Seychelles"
             },
+            "latitude":"-4.58333333",
+            "longitude":"55.66666666",
             "emojiU":"U+1F1F8 U+1F1E8"
          },
          "199":{
@@ -4983,6 +5381,8 @@
                "ja":"シエラレオネ",
                "it":"Sierra Leone"
             },
+            "latitude":"8.50000000",
+            "longitude":"-11.50000000",
             "emojiU":"U+1F1F8 U+1F1F1"
          },
          "200":{
@@ -5008,6 +5408,8 @@
                "ja":"シンガポール",
                "it":"Singapore"
             },
+            "latitude":"1.36666666",
+            "longitude":"103.80000000",
             "emojiU":"U+1F1F8 U+1F1EC"
          },
          "201":{
@@ -5030,6 +5432,8 @@
                "fr":"Saint Martin (partie néerlandaise)",
                "it":"Saint Martin (parte olandese)"
             },
+            "latitude":"18.03333300",
+            "longitude":"-63.05000000",
             "emojiU":"U+1F1F8 U+1F1FD"
          },
          "202":{
@@ -5055,6 +5459,8 @@
                "ja":"スロバキア",
                "it":"Slovacchia"
             },
+            "latitude":"48.66666666",
+            "longitude":"19.50000000",
             "emojiU":"U+1F1F8 U+1F1F0"
          },
          "203":{
@@ -5080,6 +5486,8 @@
                "ja":"スロベニア",
                "it":"Slovenia"
             },
+            "latitude":"46.11666666",
+            "longitude":"14.81666666",
             "emojiU":"U+1F1F8 U+1F1EE"
          },
          "204":{
@@ -5105,6 +5513,8 @@
                "ja":"ソロモン諸島",
                "it":"Isole Salomone"
             },
+            "latitude":"-8.00000000",
+            "longitude":"159.00000000",
             "emojiU":"U+1F1F8 U+1F1E7"
          },
          "205":{
@@ -5130,6 +5540,8 @@
                "ja":"ソマリア",
                "it":"Somalia"
             },
+            "latitude":"10.00000000",
+            "longitude":"49.00000000",
             "emojiU":"U+1F1F8 U+1F1F4"
          },
          "206":{
@@ -5155,6 +5567,8 @@
                "ja":"南アフリカ",
                "it":"Sud Africa"
             },
+            "latitude":"-29.00000000",
+            "longitude":"24.00000000",
             "emojiU":"U+1F1FF U+1F1E6"
          },
          "207":{
@@ -5180,6 +5594,8 @@
                "ja":"サウスジョージア・サウスサンドウィッチ諸島",
                "it":"Georgia del Sud e Isole Sandwich Meridionali"
             },
+            "latitude":"-54.50000000",
+            "longitude":"-37.00000000",
             "emojiU":"U+1F1EC U+1F1F8"
          },
          "208":{
@@ -5205,6 +5621,8 @@
                "ja":"南スーダン",
                "it":"Sudan del sud"
             },
+            "latitude":"7.00000000",
+            "longitude":"30.00000000",
             "emojiU":"U+1F1F8 U+1F1F8"
          },
          "209":{
@@ -5230,6 +5648,8 @@
                "ja":"スペイン",
                "it":"Spagna"
             },
+            "latitude":"40.00000000",
+            "longitude":"-4.00000000",
             "emojiU":"U+1F1EA U+1F1F8"
          },
          "210":{
@@ -5255,6 +5675,8 @@
                "ja":"スリランカ",
                "it":"Sri Lanka"
             },
+            "latitude":"7.00000000",
+            "longitude":"81.00000000",
             "emojiU":"U+1F1F1 U+1F1F0"
          },
          "211":{
@@ -5280,6 +5702,8 @@
                "ja":"スーダン",
                "it":"Sudan"
             },
+            "latitude":"15.00000000",
+            "longitude":"30.00000000",
             "emojiU":"U+1F1F8 U+1F1E9"
          },
          "212":{
@@ -5305,6 +5729,8 @@
                "ja":"スリナム",
                "it":"Suriname"
             },
+            "latitude":"4.00000000",
+            "longitude":"-56.00000000",
             "emojiU":"U+1F1F8 U+1F1F7"
          },
          "213":{
@@ -5330,6 +5756,8 @@
                "ja":"スヴァールバル諸島およびヤンマイエン島",
                "it":"Svalbard e Jan Mayen"
             },
+            "latitude":"78.00000000",
+            "longitude":"20.00000000",
             "emojiU":"U+1F1F8 U+1F1EF"
          },
          "214":{
@@ -5355,6 +5783,8 @@
                "ja":"スワジランド",
                "it":"Swaziland"
             },
+            "latitude":"-26.50000000",
+            "longitude":"31.50000000",
             "emojiU":"U+1F1F8 U+1F1FF"
          },
          "215":{
@@ -5380,6 +5810,8 @@
                "ja":"スウェーデン",
                "it":"Svezia"
             },
+            "latitude":"62.00000000",
+            "longitude":"15.00000000",
             "emojiU":"U+1F1F8 U+1F1EA"
          },
          "216":{
@@ -5405,6 +5837,8 @@
                "ja":"スイス",
                "it":"Svizzera"
             },
+            "latitude":"47.00000000",
+            "longitude":"8.00000000",
             "emojiU":"U+1F1E8 U+1F1ED"
          },
          "217":{
@@ -5430,6 +5864,8 @@
                "ja":"シリア・アラブ共和国",
                "it":"Siria"
             },
+            "latitude":"35.00000000",
+            "longitude":"38.00000000",
             "emojiU":"U+1F1F8 U+1F1FE"
          },
          "218":{
@@ -5455,6 +5891,8 @@
                "ja":"台湾（中華民国）",
                "it":"Taiwan"
             },
+            "latitude":"23.50000000",
+            "longitude":"121.00000000",
             "emojiU":"U+1F1F9 U+1F1FC"
          },
          "219":{
@@ -5480,6 +5918,8 @@
                "ja":"タジキスタン",
                "it":"Tagikistan"
             },
+            "latitude":"39.00000000",
+            "longitude":"71.00000000",
             "emojiU":"U+1F1F9 U+1F1EF"
          },
          "220":{
@@ -5505,6 +5945,8 @@
                "ja":"タンザニア",
                "it":"Tanzania"
             },
+            "latitude":"-6.00000000",
+            "longitude":"35.00000000",
             "emojiU":"U+1F1F9 U+1F1FF"
          },
          "221":{
@@ -5530,6 +5972,8 @@
                "ja":"タイ",
                "it":"Tailandia"
             },
+            "latitude":"15.00000000",
+            "longitude":"100.00000000",
             "emojiU":"U+1F1F9 U+1F1ED"
          },
          "222":{
@@ -5555,6 +5999,8 @@
                "ja":"トーゴ",
                "it":"Togo"
             },
+            "latitude":"8.00000000",
+            "longitude":"1.16666666",
             "emojiU":"U+1F1F9 U+1F1EC"
          },
          "223":{
@@ -5580,6 +6026,8 @@
                "ja":"トケラウ",
                "it":"Isole Tokelau"
             },
+            "latitude":"-9.00000000",
+            "longitude":"-172.00000000",
             "emojiU":"U+1F1F9 U+1F1F0"
          },
          "224":{
@@ -5605,6 +6053,8 @@
                "ja":"トンガ",
                "it":"Tonga"
             },
+            "latitude":"-20.00000000",
+            "longitude":"-175.00000000",
             "emojiU":"U+1F1F9 U+1F1F4"
          },
          "225":{
@@ -5630,6 +6080,8 @@
                "ja":"トリニダード・トバゴ",
                "it":"Trinidad e Tobago"
             },
+            "latitude":"11.00000000",
+            "longitude":"-61.00000000",
             "emojiU":"U+1F1F9 U+1F1F9"
          },
          "226":{
@@ -5655,6 +6107,8 @@
                "ja":"チュニジア",
                "it":"Tunisia"
             },
+            "latitude":"34.00000000",
+            "longitude":"9.00000000",
             "emojiU":"U+1F1F9 U+1F1F3"
          },
          "227":{
@@ -5680,6 +6134,8 @@
                "ja":"トルコ",
                "it":"Turchia"
             },
+            "latitude":"39.00000000",
+            "longitude":"35.00000000",
             "emojiU":"U+1F1F9 U+1F1F7"
          },
          "228":{
@@ -5705,6 +6161,8 @@
                "ja":"トルクメニスタン",
                "it":"Turkmenistan"
             },
+            "latitude":"40.00000000",
+            "longitude":"60.00000000",
             "emojiU":"U+1F1F9 U+1F1F2"
          },
          "229":{
@@ -5730,6 +6188,8 @@
                "ja":"タークス・カイコス諸島",
                "it":"Isole Turks e Caicos"
             },
+            "latitude":"21.75000000",
+            "longitude":"-71.58333333",
             "emojiU":"U+1F1F9 U+1F1E8"
          },
          "230":{
@@ -5755,6 +6215,8 @@
                "ja":"ツバル",
                "it":"Tuvalu"
             },
+            "latitude":"-8.00000000",
+            "longitude":"178.00000000",
             "emojiU":"U+1F1F9 U+1F1FB"
          },
          "231":{
@@ -5780,6 +6242,8 @@
                "ja":"ウガンダ",
                "it":"Uganda"
             },
+            "latitude":"1.00000000",
+            "longitude":"32.00000000",
             "emojiU":"U+1F1FA U+1F1EC"
          },
          "232":{
@@ -5805,6 +6269,8 @@
                "ja":"ウクライナ",
                "it":"Ucraina"
             },
+            "latitude":"49.00000000",
+            "longitude":"32.00000000",
             "emojiU":"U+1F1FA U+1F1E6"
          },
          "233":{
@@ -5830,6 +6296,8 @@
                "ja":"アラブ首長国連邦",
                "it":"Emirati Arabi Uniti"
             },
+            "latitude":"24.00000000",
+            "longitude":"54.00000000",
             "emojiU":"U+1F1E6 U+1F1EA"
          },
          "234":{
@@ -5855,6 +6323,8 @@
                "ja":"イギリス",
                "it":"Regno Unito"
             },
+            "latitude":"54.00000000",
+            "longitude":"-2.00000000",
             "emojiU":"U+1F1EC U+1F1E7"
          },
          "235":{
@@ -5880,6 +6350,8 @@
                "ja":"アメリカ合衆国",
                "it":"Stati Uniti D'America"
             },
+            "latitude":"38.00000000",
+            "longitude":"-97.00000000",
             "emojiU":"U+1F1FA U+1F1F8"
          },
          "236":{
@@ -5905,6 +6377,8 @@
                "ja":"合衆国領有小離島",
                "it":"Isole minori esterne degli Stati Uniti d'America"
             },
+            "latitude":"0.00000000",
+            "longitude":"0.00000000",
             "emojiU":"U+1F1FA U+1F1F2"
          },
          "237":{
@@ -5930,6 +6404,8 @@
                "ja":"ウルグアイ",
                "it":"Uruguay"
             },
+            "latitude":"-33.00000000",
+            "longitude":"-56.00000000",
             "emojiU":"U+1F1FA U+1F1FE"
          },
          "238":{
@@ -5955,6 +6431,8 @@
                "ja":"ウズベキスタン",
                "it":"Uzbekistan"
             },
+            "latitude":"41.00000000",
+            "longitude":"64.00000000",
             "emojiU":"U+1F1FA U+1F1FF"
          },
          "239":{
@@ -5980,6 +6458,8 @@
                "ja":"バヌアツ",
                "it":"Vanuatu"
             },
+            "latitude":"-16.00000000",
+            "longitude":"167.00000000",
             "emojiU":"U+1F1FB U+1F1FA"
          },
          "240":{
@@ -6005,6 +6485,8 @@
                "ja":"聖座",
                "it":"Santa Sede"
             },
+            "latitude":"41.90000000",
+            "longitude":"12.45000000",
             "emojiU":"U+1F1FB U+1F1E6"
          },
          "241":{
@@ -6030,6 +6512,8 @@
                "ja":"ベネズエラ・ボリバル共和国",
                "it":"Venezuela"
             },
+            "latitude":"8.00000000",
+            "longitude":"-66.00000000",
             "emojiU":"U+1F1FB U+1F1EA"
          },
          "242":{
@@ -6055,6 +6539,8 @@
                "ja":"ベトナム",
                "it":"Vietnam"
             },
+            "latitude":"16.16666666",
+            "longitude":"107.83333333",
             "emojiU":"U+1F1FB U+1F1F3"
          },
          "243":{
@@ -6080,6 +6566,8 @@
                "ja":"イギリス領ヴァージン諸島",
                "it":"Isole Vergini Britanniche"
             },
+            "latitude":"18.43138300",
+            "longitude":"-64.62305000",
             "emojiU":"U+1F1FB U+1F1EC"
          },
          "244":{
@@ -6104,6 +6592,8 @@
                "ja":"アメリカ領ヴァージン諸島",
                "it":"Isole Vergini americane"
             },
+            "latitude":"18.34000000",
+            "longitude":"-64.93000000",
             "emojiU":"U+1F1FB U+1F1EE"
          },
          "245":{
@@ -6129,6 +6619,8 @@
                "ja":"ウォリス・フツナ",
                "it":"Wallis e Futuna"
             },
+            "latitude":"-13.30000000",
+            "longitude":"-176.20000000",
             "emojiU":"U+1F1FC U+1F1EB"
          },
          "246":{
@@ -6154,6 +6646,8 @@
                "ja":"西サハラ",
                "it":"Sahara Occidentale"
             },
+            "latitude":"24.50000000",
+            "longitude":"-13.00000000",
             "emojiU":"U+1F1EA U+1F1ED"
          },
          "247":{
@@ -6179,6 +6673,8 @@
                "ja":"イエメン",
                "it":"Yemen"
             },
+            "latitude":"15.00000000",
+            "longitude":"48.00000000",
             "emojiU":"U+1F1FE U+1F1EA"
          },
          "248":{
@@ -6204,6 +6700,8 @@
                "ja":"ザンビア",
                "it":"Zambia"
             },
+            "latitude":"-15.00000000",
+            "longitude":"30.00000000",
             "emojiU":"U+1F1FF U+1F1F2"
          },
          "249":{
@@ -6229,6 +6727,8 @@
                "ja":"ジンバブエ",
                "it":"Zimbabwe"
             },
+            "latitude":"-20.00000000",
+            "longitude":"30.00000000",
             "emojiU":"U+1F1FF U+1F1FC"
          }
       }
