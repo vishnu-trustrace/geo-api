@@ -180,8 +180,18 @@ export class CountryController {
         country_id: {inq: [...countryIds]}
       },
       include: [
-        "country",
-        "state"
+        {
+          relation: "country",
+          scope: {
+            fields: ["id","name"]
+          }
+        },
+        {
+          relation: "state",
+          scope: {
+            fields: ["id","name"]
+          }
+        }
       ]
     });
 

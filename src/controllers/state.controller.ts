@@ -178,8 +178,18 @@ export class StateController {
       limit: 500,
       where: {state_id: {inq: [...stateIds]}},
       include: [
-        "country",
-        "state"
+        {
+          relation: "country",
+          scope: {
+            fields: ["name"]
+          }
+        },
+        {
+          relation: "state",
+          scope: {
+            fields: ["name"]
+          }
+        }
       ]
     });
 
