@@ -181,13 +181,13 @@ export class StateController {
         {
           relation: "country",
           scope: {
-            fields: ["name"]
+            fields: ["id","name"]
           }
         },
         {
           relation: "state",
           scope: {
-            fields: ["name"]
+            fields: ["id","name"]
           }
         }
       ]
