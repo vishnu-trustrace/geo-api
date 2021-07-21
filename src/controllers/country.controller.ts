@@ -11,13 +11,15 @@ import {
   getModelSchemaRef, param, patch, post, put, requestBody,
   response
 } from '@loopback/rest';
-import {Country} from '../models';
-import {CountryRepository} from '../repositories';
+import {City, Country} from '../models';
+import {CityRepository, CountryRepository} from '../repositories';
 
 export class CountryController {
   constructor(
     @repository(CountryRepository)
     public countryRepository : CountryRepository,
+    @repository(CityRepository)
+    public cityRepository?: CityRepository
   ) {}
 
   @post('/countries')
@@ -152,5 +154,37 @@ export class CountryController {
   })
   async deleteById(@param.path.number('id') id: number): Promise<void> {
     await this.countryRepository.deleteById(id);
+  }
+
+  @get('/countries/search')
+  @response(200, {
+    description: 'Array of Country model instances',
+    content: {
+      'application/json': {
+        schema: {
+          type: 'array',
+          items: getModelSchemaRef(Country, {includeRelations: true}),
+        },
+      },
+    },
+  })
+  async findSearch(
+    @param.filter(Country) filter?: Filter<Country>,
+  ): Promise<City[] | undefined> {
+    const countryData = await this.countryRepository.find(filter);
+    const countryIds = countryData.map(item => item.id);
+
+    let cityData = await this.cityRepository?.find({
+      limit: 500,
+      where: {
+        country_id: {inq: [...countryIds]}
+      },
+      include: [
+        "country",
+        "state"
+      ]
+    });
+
+    return cityData;
   }
 }
