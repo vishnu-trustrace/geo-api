@@ -4,18 +4,12 @@ import {
   Filter,
   FilterExcludingWhere,
   repository,
-  Where,
+  Where
 } from '@loopback/repository';
 import {
-  post,
-  param,
-  get,
-  getModelSchemaRef,
-  patch,
-  put,
-  del,
-  requestBody,
-  response,
+  del, get,
+  getModelSchemaRef, param, patch, post, put, requestBody,
+  response
 } from '@loopback/rest';
 import {City} from '../models';
 import {CityRepository} from '../repositories';
@@ -37,13 +31,25 @@ export class CityController {
         'application/json': {
           schema: getModelSchemaRef(City, {
             title: 'NewCity',
-            exclude: ['id'],
+            //exclude: ['id'],
           }),
         },
       },
     })
-    city: Omit<City, 'id'>,
+    city: City,
   ): Promise<City> {
+
+    //if id is not provided set id
+    if(!city.hasOwnProperty('id'))
+    {
+      let lastCityObj: any = await this.cityRepository.find({
+        order: ['id DESC'],
+        limit: 1
+      });
+
+      city.id = lastCityObj.length ? lastCityObj[0]['id']+1 : 1;
+    }
+
     return this.cityRepository.create(city);
   }
 

@@ -4,18 +4,12 @@ import {
   Filter,
   FilterExcludingWhere,
   repository,
-  Where,
+  Where
 } from '@loopback/repository';
 import {
-  post,
-  param,
-  get,
-  getModelSchemaRef,
-  patch,
-  put,
-  del,
-  requestBody,
-  response,
+  del, get,
+  getModelSchemaRef, param, patch, post, put, requestBody,
+  response
 } from '@loopback/rest';
 import {State} from '../models';
 import {StateRepository} from '../repositories';
@@ -37,13 +31,25 @@ export class StateController {
         'application/json': {
           schema: getModelSchemaRef(State, {
             title: 'NewState',
-            exclude: ['id'],
+            //exclude: ['id'],
           }),
         },
       },
     })
-    state: Omit<State, 'id'>,
+    state: State,
   ): Promise<State> {
+
+    //if id is not provided set id
+    if(!state.hasOwnProperty('id'))
+    {
+      let lastStateObj: any = await this.stateRepository.find({
+        order: ['id DESC'],
+        limit: 1
+      });
+
+      state.id = lastStateObj.length ? lastStateObj[0]['id']+1 : 1;
+    }
+
     return this.stateRepository.create(state);
   }
 

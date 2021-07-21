@@ -4,18 +4,12 @@ import {
   Filter,
   FilterExcludingWhere,
   repository,
-  Where,
+  Where
 } from '@loopback/repository';
 import {
-  post,
-  param,
-  get,
-  getModelSchemaRef,
-  patch,
-  put,
-  del,
-  requestBody,
-  response,
+  del, get,
+  getModelSchemaRef, param, patch, post, put, requestBody,
+  response
 } from '@loopback/rest';
 import {Country} from '../models';
 import {CountryRepository} from '../repositories';
@@ -37,13 +31,25 @@ export class CountryController {
         'application/json': {
           schema: getModelSchemaRef(Country, {
             title: 'NewCountry',
-            exclude: ['id'],
+            //exclude: ['id'],
           }),
         },
       },
     })
-    country: Omit<Country, 'id'>,
+    country: Country,
   ): Promise<Country> {
+
+    //if id is not provided set id
+    if(!country.hasOwnProperty('id'))
+    {
+      let lastCountryObj: any = await this.countryRepository.find({
+        order: ['id DESC'],
+        limit: 1
+      });
+
+      country.id = lastCountryObj.length ? lastCountryObj[0]['id']+1 : 1;
+    }
+
     return this.countryRepository.create(country);
   }
 
